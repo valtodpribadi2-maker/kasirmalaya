@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kedai Malaya</string>
+    <string name="tekan_lagi_keluar">Tekan sekali lagi untuk keluar</string>
+    <string name="tidak_bisa_buka">Tidak ada aplikasi untuk membuka tautan ini</string>
+</resources>

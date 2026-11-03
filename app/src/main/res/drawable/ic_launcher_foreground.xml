@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Struk -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,28 L71,28 L71,80 L65.33,76 L59.67,80 L54,76 L48.33,80 L42.67,76 L37,80 Z" />
+    <!-- Baris barang -->
+    <path
+        android:fillColor="#0F2E37"
+        android:pathData="M43,36h22v3h-22z M43,44h22v3h-22z M43,52h14v3h-14z" />
+    <!-- Total -->
+    <path
+        android:fillColor="#F5B942"
+        android:pathData="M43,61h22v6h-22z" />
+</vector>
